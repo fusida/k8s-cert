@@ -1,0 +1,16 @@
+ca.crt
+ca.key
+ca.srl
+
+csr.conf
+server.crt
+server.csr
+server.key
+
+csr.client.conf
+client.crt
+client.csr
+client.key
+
+kubeconfig
+
